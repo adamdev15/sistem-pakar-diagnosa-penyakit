@@ -69,7 +69,7 @@ Untuk menguji dan menjalankan aplikasi di komputer lokal (localhost), ikuti lang
 
 1. **Clone repositori:**
    ```bash
-   git clone [https://github.com/username/sistem-pakar-cf.git](https://github.com/adamdev15/sistem-pakar-diagnosa-penyakit.git)
+   git clone https://github.com/adamdev15/sistem-pakar-diagnosa-penyakit.git
    cd sistem-pakar-cf
    ```
 
